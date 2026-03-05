@@ -26,10 +26,10 @@ certificates = [
         'description': 'Understanding AI fundamentals, industry applications, and key trends'
     },
     {
-        'filename': 'certificates/MongoDB_Developer_Associate.pdf',
-        'title': 'MongoDB Developer Associate',
-        'issuer': 'MongoDB',
-        'description': 'Associate level certification for database design and integration'
+        'filename': 'certificates/YUVA_AI.pdf',
+        'title': 'YUVA_AI',
+        'issuer': 'YUVA AI',
+        'description': 'Completed YUVA AI for All, gaining foundational knowledge of Artificial Intelligence, AI tools, and real-world applications.'
     }
 ]
 
@@ -88,3 +88,4 @@ for cert in certificates:
     print(f'✓ Created {cert["title"]}')
 
 print('\nAll certificates created successfully!')
+

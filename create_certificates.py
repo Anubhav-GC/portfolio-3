@@ -27,7 +27,7 @@ certificates = [
     },
     {
         'filename': 'certificates/YUVA_AI.pdf',
-        'title': 'YUVA_AI',
+        'title': 'YUVA AI For All',
         'issuer': 'YUVA AI',
         'description': 'Completed YUVA AI for All, gaining foundational knowledge of Artificial Intelligence, AI tools, and real-world applications.'
     }
@@ -88,4 +88,5 @@ for cert in certificates:
     print(f'✓ Created {cert["title"]}')
 
 print('\nAll certificates created successfully!')
+
 

@@ -25,16 +25,17 @@ Place the following certificate files in this directory:
 ## Example File Structure
 
 ```
-1st Portfolio
+portfolio-3
 │
 ├── index.html
 ├── style.css
 ├── script.js
-└── certificates/
-    ├── Infosys_Python_Part1.pdf
-    ├── GeeksforGeeks_Python_Course.pdf
-    ├── Accenture_AI_Course.pdf
-    ├── MongoDB_Developer_Associate.pdf
-    └── yuva-ai-certificate.pdf   ✅
+└── certificates
+      ├── Infosys_Python_Part1.pdf
+      ├── GeeksforGeeks_Python_Course.pdf
+      ├── Accenture_AI_Course.pdf
+      ├── MongoDB_Developer_Associate.pdf
+      └── Yuva_AI_For_All.pdf   ✅
+
 
 

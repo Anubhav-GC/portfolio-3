@@ -9,7 +9,7 @@ Place the following certificate files in this directory:
 1. **Infosys_Python_Part1.pdf** - Infosys Springboard Programming Fundamentals
 2. **GeeksforGeeks_Python_Course.pdf** - GeeksforGeeks Python Course Certificate
 3. **Accenture_AI_Course.pdf** - Accenture AI Course Certificate
-4. **MongoDB_Developer_Associate.pdf** - MongoDB Developer Associate Certification
+4. **Yuva_AI_For_All.pdf** - Yuva AI for All
 
 ## Supported Formats
 
@@ -36,4 +36,5 @@ Place the following certificate files in this directory:
     ├── Accenture_AI_Course.pdf
     ├── MongoDB_Developer_Associate.pdf
     └── yuva-ai-certificate.pdf   ✅
+
 
